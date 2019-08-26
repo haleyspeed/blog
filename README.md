@@ -1,2 +1,1 @@
-# blog
-Repository for N-Coding.net
+## Repository for N-Coding.net
